@@ -3,9 +3,12 @@ This is a user login and registration app using Node.js, Express, Passport, Mong
 
 ## Usage
 npm install
+
 npm run dev
 
 ## MongoDB
 Open "config/keys.js" and add your MongoDB URI, local or Atlas
 
 
+### Port
+Put your PORT & run with localhost:{PORT}
